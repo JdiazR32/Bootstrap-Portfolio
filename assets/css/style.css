@@ -1,0 +1,56 @@
+body {
+	padding: 0;
+	background-image: url("../images/tree_bark.png");
+}
+
+
+.btn-link {
+
+	color: #777777;
+	font-weight: bold;
+	font-family: 'Georgia', Times, 'Times New Roman',serif;
+}
+
+.divider-vertical {
+	height: 34px;
+	margin: 0px;
+	border-left: 1px solid #eeeeee;
+	border-right: 1px solid #eeeeee;
+	}
+
+	h2{
+		color: white;
+		padding: 19px;
+		background: #4aaaa5;
+	
+	}
+	.h2s {
+		font-family: 'Georgia', Times, 'Times New Roman',serif;
+		color: #4aaaa5;
+		font-weight: bold;
+		background: transparent;
+	}
+	.c1{
+		margin-bottom: 30px;
+		background: white;
+	}
+	.c2{
+		background: white;
+		padding: 33px;
+	}
+	.port {
+		color: white;
+		padding: 1px;
+		background: #4aaaa5;
+	}
+	.navbar-fixed-bottom{
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-weight: normal;
+	padding: 5px;
+	bottom: 0px;
+	padding: 10px;
+	background-color: #666666;
+	width: 100%;
+	text-align: center;
+	border-top: solid 4px #4aaaa5;
+}
